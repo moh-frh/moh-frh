@@ -14,6 +14,6 @@
 -->
 I'm software engineer, passionate about everything related to software development and technologies, interested in field of web and mobile development, and I'm trying to improve and scale my knowledge in this field.
 
-To learn more about me please take a look at my personal website [https://my-portfolio-mff.netlify.app/]
+To learn more about me please take a look at my portfolio [https://my-portfolio-mff.netlify.app/]
 
 Please don't forget to star ⭐⭐⭐⭐⭐ the repositories below if you find them interesting)
