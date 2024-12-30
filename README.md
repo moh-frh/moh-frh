@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to solve prob
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedfferhi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfferhi&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh-frh&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh-frh&layout=compact&theme=tokyonight)  
 
 ---
 
