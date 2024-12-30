@@ -8,14 +8,13 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to solve prob
 ## 🛠️ **Technologies & Skills**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
 
 ### **Core Expertise**  
-- **Programming Languages:** Python, SQL, SAS, JavaScript  
+- **Programming Languages:** Python, SQL, SAS, Java, JavaScript  
 - **Data Visualization:** Power BI, Excel  
 - **Big Data & ETL:** AWS Glue, Hadoop, Kafka  
 - **Web Development:** Django, Spring boot  
@@ -25,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to solve prob
 ---
 
 ## 📂 **Featured Projects**  
-### 🚀 **Real-Time Meteorological Monitoring System**  
+### 🚀 **Real-Time Netwok Monitoring System**  
 - **Technologies:** Python, SNMP, Kafka, Splunk  
 - Built a real-time monitoring app, replacing a $10,490/year third-party software solution.  
 - Created dashboards for 65 devices, providing actionable insights in real time.  
@@ -48,7 +47,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to solve prob
 ---
 
 ## 📫 **Contact Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedfferhi)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedfrh213/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.ferhi97@gmail.com)  
 
 ---
